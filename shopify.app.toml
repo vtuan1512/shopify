@@ -3,7 +3,7 @@
 client_id = "82c89c55a3392aae57825a735c414d54"
 name = "Tigren App"
 handle = "tigren-app"
-application_url = "https://chemical-consistency-resume-gmbh.trycloudflare.com"
+application_url = "https://investigators-coating-tourism-puzzle.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "read_products,write_products"
 
 [auth]
 redirect_urls = [
-  "https://chemical-consistency-resume-gmbh.trycloudflare.com/auth/callback",
-  "https://chemical-consistency-resume-gmbh.trycloudflare.com/auth/shopify/callback",
-  "https://chemical-consistency-resume-gmbh.trycloudflare.com/api/auth/callback"
+  "https://investigators-coating-tourism-puzzle.trycloudflare.com/auth/callback",
+  "https://investigators-coating-tourism-puzzle.trycloudflare.com/auth/shopify/callback",
+  "https://investigators-coating-tourism-puzzle.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
